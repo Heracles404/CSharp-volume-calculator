@@ -69,7 +69,7 @@ namespace flux
 
                     validation.validation1(length, height, width);
                 }
-                else if (choice.ToUpper() == "Et")
+                else if (choice.ToUpper() == "E")
                 {
                     System.Environment.Exit(0);
                 }
